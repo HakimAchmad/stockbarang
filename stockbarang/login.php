@@ -61,7 +61,9 @@ if(isset($_POST['login'])){
                                             </div>
                                         </form>
                                     </div>
-                                   
+                                     <div class="card-footer text-center">
+                                        <div class="small"><a href="register.php">Klik Disini Jika Belum Punya Akun</a></div>
+                                    </div>                              
                                 </div>
                             </div>
                         </div>
