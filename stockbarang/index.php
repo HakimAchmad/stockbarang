@@ -131,7 +131,7 @@ require 'cek.php';
                                             <tr>
                                                 <td><?=$i++;?></td>
                                                 <td><?=$img;?></td>
-                                                <td><?=$namabarang;?></td>
+                                                <td><strong><a href="detail.php?id=<?=$idb;?>"><?=$namabarang;?></a></strong></td>
                                                 <td><?=$kategori;?></td>
                                                 <td><?=$stock;?></td>
                                                 <td>
